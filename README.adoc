@@ -26,7 +26,7 @@ Every browser has its way of install extensions/addons, just look for the one yo
 
 The only thing in common is
 
-* Download this project, or clone it
+* Download this project and extract, or clone it
 * Activate "Developer Mode" on the extension page configuration
 * Select the folder or the *manifest.json* file
 
