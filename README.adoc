@@ -2,7 +2,7 @@
 :bitbucket_url: https://bitbucket.org/[Bitbucket] 
 :atlassian_url: https://www.atlassian.com/[Atlassian Products]
 
-= Bitbucket New Branch
+= Bitbucket New Branch - Browser Extension
 
 This is just a simple extension/addon/extra for browsers that adds the copy to clipboard action and make the git checkout command when using Bitbucket more readable.
 
@@ -45,3 +45,5 @@ This should be enought to make it work, now go create a new branch in bitbucket 
 
 == Licence
 link:LICENSE[MIT]
+
+NOTE: Yes this readme file is an Asciidoc not Markdown
