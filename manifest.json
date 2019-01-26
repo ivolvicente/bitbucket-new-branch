@@ -1,0 +1,24 @@
+{
+
+    "manifest_version": 2,
+    "name": "Bitbucket New Branch Highlight",
+    "version": "1.0",
+  
+    "description": "Add new style to code block when a new branch is created at Bitbucket",
+  
+    "icons": {
+      "48": "icons/git-48.png",
+      "96": "icons/git-96.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.bitbucket.org/*/branch/*"],
+        "js": [
+            "toast-min.js",
+            "bitbucket-new-branch.js"
+        ]
+      }
+    ]
+  
+  }
