@@ -12,16 +12,14 @@ JIRA allow users to open a new branch with it's JIRA ID directly in Bitbucket, b
 
 
 == Result
+_**BEFORE**_
 
-.Before 
-**** 
 image::readme/bitbucket_before.png[]
-****
 
-.After 
-**** 
+_**AFTER**_
+
 image::readme/bitbucket_after.png[]
-****
+
 
 == Install
 Every browser has its way of install extensions/addons, just look for the one you use.
@@ -36,9 +34,9 @@ This should be enought to make it work, now go create a new branch in bitbucket 
 
 == Tested Successfully
 
-* [*] Google Chrome
-* [*] Firefox
-* [*] Opera
+* Google Chrome
+* Firefox
+* Opera
 
 == Credits
 * My coworkers that have tested and are using this tool
